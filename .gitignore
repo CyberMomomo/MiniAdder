@@ -1,0 +1,6 @@
+/MiniAdder-backups
+*.lck
+/gerber
+*.zip
+fp-info-cache
+*.tmp
